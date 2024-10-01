@@ -1,0 +1,303 @@
+2024-09-26 12:41:07 - root - INFO - Script started.
+2024-09-26 12:41:11 - services.data_processing - INFO - Loaded (16830, 35) rows from the detailed sheet.
+2024-09-26 12:41:11 - services.data_processing - INFO - Filtered (203, 15) rows with 'Awaited' status.
+2024-09-26 12:41:11 - services.data_processing - INFO - Number of rows needed fiori generation: 3
+2024-09-26 12:41:11 - services.data_processing - INFO - Number of unique BidTrigNN or number of fiori should be created: 1
+2024-09-26 12:41:26 - services.selenium_service - INFO - Successfully loaded Fiori page.
+2024-09-26 12:41:26 - root - INFO - Processing BidTrigNN id: 36275-EGI-902013730
+2024-09-26 12:41:26 - root - INFO - Number of Person in this BidTrigNN id: 3
+2024-09-26 12:41:45 - root - INFO - Processing: Description=RFP_MELA_ROMANIA_Telekom Romani_36275, NN=902013730, SLC=EGI, PerNo=23293396, Hrs=8.5, Date=21.02.2023 to 31.03.2023
+2024-09-26 12:41:55 - root - INFO - Completed processing for BidTrigNN: 36275-EGI-902013730
+2024-09-26 12:41:55 - root - INFO - #################################################################################
+2024-09-26 12:41:55 - root - INFO - #################################################################################
+2024-09-26 12:42:01 - services.data_processing - INFO - Data written successfully to Detailed_Sheet
+2024-09-26 12:42:07 - root - INFO - Script ended successfully.
+2024-09-26 14:27:48 - root - INFO - Script started.
+2024-09-26 14:27:52 - services.data_processing - INFO - Loaded (16830, 33) rows from the detailed sheet.
+2024-09-26 14:27:52 - services.data_processing - INFO - Filtered (203, 15) rows with 'Awaited' status.
+2024-09-26 14:27:52 - services.data_processing - INFO - Number of rows needed fiori generation: 161
+2024-09-26 14:27:52 - services.data_processing - INFO - Number of unique BidTrigNN or number of fiori should be created: 55
+2024-09-26 14:28:05 - services.selenium_service - INFO - Successfully loaded Fiori page.
+2024-09-26 14:28:05 - root - INFO - Processing BidTrigNN id: 36275-EGI-902013730
+2024-09-26 14:28:05 - root - INFO - Number of Person in this BidTrigNN id: 3
+2024-09-26 14:28:14 - root - INFO - Completed processing for BidTrigNN: 36275-EGI-902013730
+2024-09-26 14:28:14 - root - INFO - #################################################################################
+2024-09-26 14:28:14 - root - INFO - #################################################################################
+2024-09-26 14:28:14 - root - INFO - Processing BidTrigNN id: 36438-EGI-902013730
+2024-09-26 14:28:14 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:28:21 - root - INFO - Completed processing for BidTrigNN: 36438-EGI-902013730
+2024-09-26 14:28:21 - root - INFO - #################################################################################
+2024-09-26 14:28:21 - root - INFO - #################################################################################
+2024-09-26 14:28:21 - root - INFO - Processing BidTrigNN id: 36693-EGI-902107798
+2024-09-26 14:28:21 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:28:28 - root - INFO - Processing: Description=RFP_MELA_ITALY_Vodafone Italy_36693, NN=902107798, SLC=EGI, PerNo=23610498, Hrs=3.0, Date=03.05.2023 to 09.05.2023
+2024-09-26 14:39:35 - root - INFO - Script started.
+2024-09-26 14:39:38 - services.data_processing - INFO - Loaded (16830, 33) rows from the detailed sheet.
+2024-09-26 14:39:39 - services.data_processing - INFO - Filtered (203, 15) rows with 'Awaited' status.
+2024-09-26 14:39:39 - services.data_processing - INFO - Number of rows needed fiori generation: 161
+2024-09-26 14:39:39 - services.data_processing - INFO - Number of unique BidTrigNN or number of fiori should be created: 55
+2024-09-26 14:39:56 - services.selenium_service - INFO - Successfully loaded Fiori page.
+2024-09-26 14:39:56 - root - INFO - Processing BidTrigNN id: 36275-EGI-902013730
+2024-09-26 14:39:56 - root - INFO - Number of Person in this BidTrigNN id: 3
+2024-09-26 14:40:05 - root - INFO - Processing: Description=RFP_MELA_ROMANIA_Telekom Romani_36275, NN=902013730, SLC=EGI, PerNo=23293396, Hrs=8.5, Date=21.02.2023 to 31.03.2023
+2024-09-26 14:40:16 - root - INFO - Completed processing for BidTrigNN: 36275-EGI-902013730
+2024-09-26 14:40:16 - root - INFO - #################################################################################
+2024-09-26 14:40:16 - root - INFO - #################################################################################
+2024-09-26 14:40:16 - root - INFO - Processing BidTrigNN id: 36438-EGI-902013730
+2024-09-26 14:40:16 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:40:25 - root - INFO - Processing: Description=RFP_MELA_SPAIN_Other Verticals _36438, NN=902013730, SLC=EGI, PerNo=23539007, Hrs=2.0, Date=25.09.2023 to 16.07.2024
+2024-09-26 14:40:35 - root - INFO - Completed processing for BidTrigNN: 36438-EGI-902013730
+2024-09-26 14:40:35 - root - INFO - #################################################################################
+2024-09-26 14:40:35 - root - INFO - #################################################################################
+2024-09-26 14:40:35 - root - INFO - Processing BidTrigNN id: 36693-EGI-902107798
+2024-09-26 14:40:35 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:40:42 - root - INFO - Completed processing for BidTrigNN: 36693-EGI-902107798
+2024-09-26 14:40:42 - root - INFO - #################################################################################
+2024-09-26 14:40:42 - root - INFO - #################################################################################
+2024-09-26 14:40:42 - root - INFO - Processing BidTrigNN id: 37013-EGI-902013730
+2024-09-26 14:40:42 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:40:51 - root - INFO - Processing: Description=RFP_MELA_AZERBAIJAN_Azercell_37013, NN=902013730, SLC=EGI, PerNo=85008140, Hrs=8.5, Date=19.06.2023 to 30.11.2023
+2024-09-26 14:41:03 - root - INFO - Processing: Description=RFP_MELA_AZERBAIJAN_Azercell_37013, NN=902013730, SLC=EGI, PerNo=23784765, Hrs=17.0, Date=19.06.2023 to 31.07.2023
+2024-09-26 14:41:16 - root - INFO - Driver moved to approver page
+2024-09-26 14:41:21 - root - INFO - Pasted Salesforce ID:: 35172872
+2024-09-26 14:41:23 - root - INFO - FioriNumber created: :0002365913
+2024-09-26 14:41:28 - root - INFO - Completed processing for BidTrigNN: 37013-EGI-902013730
+2024-09-26 14:41:28 - root - INFO - #################################################################################
+2024-09-26 14:41:28 - root - INFO - #################################################################################
+2024-09-26 14:41:28 - root - INFO - Processing BidTrigNN id: 37397-EGI-901908098
+2024-09-26 14:41:28 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:41:35 - root - INFO - Completed processing for BidTrigNN: 37397-EGI-901908098
+2024-09-26 14:41:35 - root - INFO - #################################################################################
+2024-09-26 14:41:35 - root - INFO - #################################################################################
+2024-09-26 14:41:35 - root - INFO - Processing BidTrigNN id: 37778-EGI-902108734
+2024-09-26 14:41:35 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:41:43 - root - INFO - Processing: Description=RFP_MELA_DENMARK_TDC Solutions _37778, NN=902108734, SLC=EGI, PerNo=23762833, Hrs=2.0, Date=01.11.2023 to 07.11.2023
+2024-09-26 14:41:54 - root - INFO - Completed processing for BidTrigNN: 37778-EGI-902108734
+2024-09-26 14:41:54 - root - INFO - #################################################################################
+2024-09-26 14:41:54 - root - INFO - #################################################################################
+2024-09-26 14:41:54 - root - INFO - Processing BidTrigNN id: 37813-TEI-902013730
+2024-09-26 14:41:54 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:42:03 - root - INFO - Processing: Description=RFP_MELA_UKRAINE_Kyivstar G.S.M_37813, NN=902013730, SLC=TEI, PerNo=23209402, Hrs=16.0, Date=13.11.2023 to 29.12.2023
+2024-09-26 14:42:13 - root - INFO - Completed processing for BidTrigNN: 37813-TEI-902013730
+2024-09-26 14:42:13 - root - INFO - #################################################################################
+2024-09-26 14:42:13 - root - INFO - #################################################################################
+2024-09-26 14:42:13 - root - INFO - Processing BidTrigNN id: 38018-TEM-902013730
+2024-09-26 14:42:13 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:42:22 - root - INFO - Processing: Description=RFP_MANA_United States_GOVERNME_38018, NN=902013730, SLC=TEM, PerNo=23264793, Hrs=8.0, Date=16.12.2023 to 19.02.2024
+2024-09-26 14:42:35 - root - INFO - Driver moved to approver page
+2024-09-26 14:42:40 - root - INFO - Completed processing for BidTrigNN: 38018-TEM-902013730
+2024-09-26 14:42:40 - root - INFO - #################################################################################
+2024-09-26 14:42:40 - root - INFO - #################################################################################
+2024-09-26 14:42:40 - root - INFO - Processing BidTrigNN id: 38094-EGI-902013730
+2024-09-26 14:42:40 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:42:49 - root - INFO - Processing: Description=RFP_MELA_DENMARK_Telenor Denmar_38094, NN=902013730, SLC=EGI, PerNo=23682203, Hrs=8.5, Date=11.01.2024 to 03.04.2024
+2024-09-26 14:43:00 - root - INFO - Processing: Description=RFP_MELA_DENMARK_Telenor Denmar_38094, NN=902013730, SLC=EGI, PerNo=80053851, Hrs=6.0, Date=11.01.2024 to 03.04.2024
+2024-09-26 14:43:14 - root - INFO - Driver moved to approver page
+2024-09-26 14:43:19 - root - INFO - Completed processing for BidTrigNN: 38094-EGI-902013730
+2024-09-26 14:43:19 - root - INFO - #################################################################################
+2024-09-26 14:43:19 - root - INFO - #################################################################################
+2024-09-26 14:43:19 - root - INFO - Processing BidTrigNN id: 38435-TEM-902013730
+2024-09-26 14:43:19 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:43:28 - root - INFO - Processing: Description=RFP_MELA_MEXICO_Telcel_38435, NN=902013730, SLC=TEM, PerNo=20025997, Hrs=10.0, Date=23.02.2024 to 08.04.2024
+2024-09-26 14:43:39 - root - INFO - Processing: Description=RFP_MELA_MEXICO_Telcel_38435, NN=902013730, SLC=TEM, PerNo=23388562, Hrs=4.0, Date=23.02.2024 to 08.04.2024
+2024-09-26 14:43:53 - root - INFO - Driver moved to approver page
+2024-09-26 14:43:55 - root - INFO - Completed processing for BidTrigNN: 38435-TEM-902013730
+2024-09-26 14:43:55 - root - INFO - #################################################################################
+2024-09-26 14:43:55 - root - INFO - #################################################################################
+2024-09-26 14:43:55 - root - INFO - Processing BidTrigNN id: 38458-CBC-902034885
+2024-09-26 14:43:55 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:44:03 - root - INFO - Completed processing for BidTrigNN: 38458-CBC-902034885
+2024-09-26 14:44:03 - root - INFO - #################################################################################
+2024-09-26 14:44:03 - root - INFO - #################################################################################
+2024-09-26 14:44:03 - root - INFO - Processing BidTrigNN id: 38531-EGI-902013730
+2024-09-26 14:44:03 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:44:11 - root - INFO - Processing: Description=RFP_BNEW_Not Applicable_BNEW_38531, NN=902013730, SLC=EGI, PerNo=23666280, Hrs=127.5, Date=07.03.2024 to 31.12.2024
+2024-09-26 14:44:25 - root - INFO - Driver moved to approver page
+2024-09-26 14:44:30 - root - INFO - Completed processing for BidTrigNN: 38531-EGI-902013730
+2024-09-26 14:44:30 - root - INFO - #################################################################################
+2024-09-26 14:44:30 - root - INFO - #################################################################################
+2024-09-26 14:44:30 - root - INFO - Processing BidTrigNN id: 38788-EGI-902013730
+2024-09-26 14:44:30 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:44:39 - root - INFO - Processing: Description=RFP_MELA_NORWAY_Telenor Norway__38788, NN=902013730, SLC=EGI, PerNo=80046720, Hrs=4.0, Date=17.04.2024 to 03.05.2024
+2024-09-26 14:44:53 - root - INFO - Driver moved to approver page
+2024-09-26 14:44:58 - root - INFO - Completed processing for BidTrigNN: 38788-EGI-902013730
+2024-09-26 14:44:58 - root - INFO - #################################################################################
+2024-09-26 14:44:58 - root - INFO - #################################################################################
+2024-09-26 14:44:58 - root - INFO - Processing BidTrigNN id: 38800-TEM-902013730
+2024-09-26 14:44:58 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:45:07 - root - INFO - Processing: Description=RFP_MELA_COSTA RICA_LLA PR MOBI_38800, NN=902013730, SLC=TEM, PerNo=23497893, Hrs=19.0, Date=18.04.2024 to 02.08.2024
+2024-09-26 14:45:20 - root - INFO - Driver moved to approver page
+2024-09-26 14:45:25 - root - INFO - Completed processing for BidTrigNN: 38800-TEM-902013730
+2024-09-26 14:45:25 - root - INFO - #################################################################################
+2024-09-26 14:45:25 - root - INFO - #################################################################################
+2024-09-26 14:45:25 - root - INFO - Processing BidTrigNN id: 38813-EGI-40054834
+2024-09-26 14:45:25 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:45:35 - root - INFO - Processing: Description=RFP_MELA_Poland_ORANGE POLAND_38813, NN=40054834, SLC=EGI, PerNo=23773500, Hrs=17.0, Date=22.04.2024 to 23.04.2024
+2024-09-26 14:45:48 - root - INFO - Driver moved to approver page
+2024-09-26 14:45:53 - root - INFO - Completed processing for BidTrigNN: 38813-EGI-40054834
+2024-09-26 14:45:53 - root - INFO - #################################################################################
+2024-09-26 14:45:53 - root - INFO - #################################################################################
+2024-09-26 14:45:53 - root - INFO - Processing BidTrigNN id: 38963-EGI-902013730
+2024-09-26 14:45:53 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:46:02 - root - INFO - Processing: Description=RFP_MANA_United States_RIP REPL_38963, NN=902013730, SLC=EGI, PerNo=23748212, Hrs=12.0, Date=14.05.2024 to 31.07.2024
+2024-09-26 14:46:16 - root - INFO - Driver moved to approver page
+2024-09-26 14:46:20 - root - INFO - Pasted Salesforce ID:: 35185674
+2024-09-26 14:46:22 - root - INFO - FioriNumber created: :0002365918
+2024-09-26 14:46:27 - root - INFO - Completed processing for BidTrigNN: 38963-EGI-902013730
+2024-09-26 14:46:27 - root - INFO - #################################################################################
+2024-09-26 14:46:27 - root - INFO - #################################################################################
+2024-09-26 14:46:27 - root - INFO - Processing BidTrigNN id: 38977-TEM-902013730
+2024-09-26 14:46:27 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:46:36 - root - INFO - Processing: Description=RFP_MELA_BRAZIL_Telefonica, Bra_38977, NN=902013730, SLC=TEM, PerNo=80064792, Hrs=16.0, Date=16.05.2024 to 23.05.2024
+2024-09-26 14:46:50 - root - INFO - Driver moved to approver page
+2024-09-26 14:46:54 - root - INFO - Pasted Salesforce ID:: 35198879
+2024-09-26 14:46:56 - root - INFO - FioriNumber created: :0002365919
+2024-09-26 14:47:01 - root - INFO - Completed processing for BidTrigNN: 38977-TEM-902013730
+2024-09-26 14:47:01 - root - INFO - #################################################################################
+2024-09-26 14:47:01 - root - INFO - #################################################################################
+2024-09-26 14:47:01 - root - INFO - Processing BidTrigNN id: 38978-CGC-902013730
+2024-09-26 14:47:01 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:47:10 - root - INFO - Processing: Description=RFP_MELA_BRAZIL_Telefonica, Bra_38978, NN=902013730, SLC=CGC, PerNo=23755556, Hrs=4.0, Date=16.05.2024 to 23.05.2024
+2024-09-26 14:47:24 - root - INFO - Driver moved to approver page
+2024-09-26 14:47:27 - root - INFO - Completed processing for BidTrigNN: 38978-CGC-902013730
+2024-09-26 14:47:27 - root - INFO - #################################################################################
+2024-09-26 14:47:27 - root - INFO - #################################################################################
+2024-09-26 14:47:27 - root - INFO - Processing BidTrigNN id: 38978-EGI-902013730
+2024-09-26 14:47:27 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:47:35 - root - INFO - Processing: Description=RFP_MELA_BRAZIL_Telefonica, Bra_38978, NN=902013730, SLC=EGI, PerNo=23518401, Hrs=17.0, Date=16.05.2024 to 23.05.2024
+2024-09-26 14:47:49 - root - INFO - Driver moved to approver page
+2024-09-26 14:47:53 - root - INFO - Pasted Salesforce ID:: 35185386
+2024-09-26 14:47:55 - root - INFO - FioriNumber created: :0002365921
+2024-09-26 14:48:00 - root - INFO - Completed processing for BidTrigNN: 38978-EGI-902013730
+2024-09-26 14:48:00 - root - INFO - #################################################################################
+2024-09-26 14:48:00 - root - INFO - #################################################################################
+2024-09-26 14:48:00 - root - INFO - Processing BidTrigNN id: 38978-TEM-902013730
+2024-09-26 14:48:00 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:48:09 - root - INFO - Processing: Description=RFP_MELA_BRAZIL_Telefonica, Bra_38978, NN=902013730, SLC=TEM, PerNo=80034564, Hrs=24.75, Date=16.05.2024 to 23.05.2024
+2024-09-26 14:48:21 - root - INFO - Processing: Description=RFP_MELA_BRAZIL_Telefonica, Bra_38978, NN=902013730, SLC=TEM, PerNo=23478714, Hrs=5.0, Date=16.05.2024 to 23.05.2024
+2024-09-26 14:48:34 - root - INFO - Driver moved to approver page
+2024-09-26 14:48:37 - root - INFO - Completed processing for BidTrigNN: 38978-TEM-902013730
+2024-09-26 14:48:37 - root - INFO - #################################################################################
+2024-09-26 14:48:37 - root - INFO - #################################################################################
+2024-09-26 14:48:37 - root - INFO - Processing BidTrigNN id: 38981-EGI-902013730
+2024-09-26 14:48:37 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:48:46 - root - INFO - Processing: Description=RFP_MELA_CHILE_Entel, Chile_38981, NN=902013730, SLC=EGI, PerNo=23769312, Hrs=2.0, Date=17.05.2024 to 20.05.2024
+2024-09-26 14:48:57 - root - INFO - Processing: Description=RFP_MELA_CHILE_Entel, Chile_38981, NN=902013730, SLC=EGI, PerNo=23390668, Hrs=17.0, Date=17.05.2024 to 20.05.2024
+2024-09-26 14:49:11 - root - INFO - Driver moved to approver page
+2024-09-26 14:49:15 - root - INFO - Pasted Salesforce ID:: 35146801
+2024-09-26 14:49:17 - root - INFO - FioriNumber created: :0002365924
+2024-09-26 14:49:22 - root - INFO - Completed processing for BidTrigNN: 38981-EGI-902013730
+2024-09-26 14:49:22 - root - INFO - #################################################################################
+2024-09-26 14:49:22 - root - INFO - #################################################################################
+2024-09-26 14:49:22 - root - INFO - Processing BidTrigNN id: 39101-EGI-902013730
+2024-09-26 14:49:22 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:49:31 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers_39101, NN=902013730, SLC=EGI, PerNo=23712932, Hrs=127.5, Date=01.07.2024 to 19.06.2024
+2024-09-26 14:49:43 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers_39101, NN=902013730, SLC=EGI, PerNo=23712932, Hrs=150.0, Date=01.07.2024 to 06.08.2024
+2024-09-26 14:49:56 - root - INFO - Driver moved to approver page
+2024-09-26 14:50:01 - root - INFO - Pasted Salesforce ID:: Not Available
+2024-09-26 14:50:03 - root - INFO - FioriNumber created: :0002365927
+2024-09-26 14:50:08 - root - INFO - Completed processing for BidTrigNN: 39101-EGI-902013730
+2024-09-26 14:50:08 - root - INFO - #################################################################################
+2024-09-26 14:50:08 - root - INFO - #################################################################################
+2024-09-26 14:50:08 - root - INFO - Processing BidTrigNN id: 39130-TEM-902013730
+2024-09-26 14:50:08 - root - INFO - Number of Person in this BidTrigNN id: 5
+2024-09-26 14:50:17 - root - INFO - Processing: Description=RFP_MELA_CHILE_Entel, Chile_39130, NN=902013730, SLC=TEM, PerNo=80037585, Hrs=54.0, Date=11.06.2024 to 31.07.2024
+2024-09-26 14:50:28 - root - INFO - Processing: Description=RFP_MELA_CHILE_Entel, Chile_39130, NN=902013730, SLC=TEM, PerNo=20006342, Hrs=30.0, Date=11.06.2024 to 31.07.2024
+2024-09-26 14:50:39 - root - INFO - Processing: Description=RFP_MELA_CHILE_Entel, Chile_39130, NN=902013730, SLC=TEM, PerNo=23335839, Hrs=33.0, Date=11.06.2024 to 31.07.2024
+2024-09-26 14:50:51 - root - INFO - Processing: Description=RFP_MELA_CHILE_Entel, Chile_39130, NN=902013730, SLC=TEM, PerNo=20006372, Hrs=17.0, Date=11.06.2024 to 31.07.2024
+2024-09-26 14:51:02 - root - INFO - Processing: Description=RFP_MELA_CHILE_Entel, Chile_39130, NN=902013730, SLC=TEM, PerNo=80064792, Hrs=50.0, Date=11.06.2024 to 31.07.2024
+2024-09-26 14:51:16 - root - INFO - Driver moved to approver page
+2024-09-26 14:51:21 - root - INFO - Completed processing for BidTrigNN: 39130-TEM-902013730
+2024-09-26 14:51:21 - root - INFO - #################################################################################
+2024-09-26 14:51:21 - root - INFO - #################################################################################
+2024-09-26 14:51:21 - root - INFO - Processing BidTrigNN id: 39134-EGI-902013730
+2024-09-26 14:51:21 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:51:30 - root - INFO - Processing: Description=RFP_MELA_PUERTO RICO_America Mo_39134, NN=902013730, SLC=EGI, PerNo=23351053, Hrs=4.0, Date=11.06.2024 to 12.07.2024
+2024-09-26 14:51:42 - root - INFO - Processing: Description=RFP_MELA_PUERTO RICO_America Mo_39134, NN=902013730, SLC=EGI, PerNo=23518401, Hrs=17.0, Date=11.06.2024 to 12.07.2024
+2024-09-26 14:51:55 - root - INFO - Driver moved to approver page
+2024-09-26 14:52:00 - root - INFO - Completed processing for BidTrigNN: 39134-EGI-902013730
+2024-09-26 14:52:00 - root - INFO - #################################################################################
+2024-09-26 14:52:00 - root - INFO - #################################################################################
+2024-09-26 14:52:00 - root - INFO - Processing BidTrigNN id: 39134-TEM-902013730
+2024-09-26 14:52:00 - root - INFO - Number of Person in this BidTrigNN id: 4
+2024-09-26 14:52:09 - root - INFO - Processing: Description=RFP_MELA_PUERTO RICO_America Mo_39134, NN=902013730, SLC=TEM, PerNo=23473209, Hrs=24.0, Date=11.06.2024 to 12.07.2024
+2024-09-26 14:52:20 - root - INFO - Processing: Description=RFP_MELA_PUERTO RICO_America Mo_39134, NN=902013730, SLC=TEM, PerNo=20006342, Hrs=4.0, Date=11.06.2024 to 12.07.2024
+2024-09-26 14:52:32 - root - INFO - Processing: Description=RFP_MELA_PUERTO RICO_America Mo_39134, NN=902013730, SLC=TEM, PerNo=20006209, Hrs=16.5, Date=11.06.2024 to 02.08.2024
+2024-09-26 14:52:43 - root - INFO - Processing: Description=RFP_MELA_PUERTO RICO_America Mo_39134, NN=902013730, SLC=TEM, PerNo=23497893, Hrs=23.0, Date=11.06.2024 to 12.07.2024
+2024-09-26 14:52:57 - root - INFO - Driver moved to approver page
+2024-09-26 14:53:02 - root - INFO - Completed processing for BidTrigNN: 39134-TEM-902013730
+2024-09-26 14:53:02 - root - INFO - #################################################################################
+2024-09-26 14:53:02 - root - INFO - #################################################################################
+2024-09-26 14:53:02 - root - INFO - Processing BidTrigNN id: 39140-EGI-902013730
+2024-09-26 14:53:02 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:53:11 - root - INFO - Processing: Description=RFP_MELA_PORTUGAL_DIGIPT_39140, NN=902013730, SLC=EGI, PerNo=23513875, Hrs=25.0, Date=11.06.2024 to 14.06.2024
+2024-09-26 14:53:25 - root - INFO - Driver moved to approver page
+2024-09-26 14:53:29 - root - INFO - Pasted Salesforce ID:: 35192403
+2024-09-26 14:53:31 - root - INFO - FioriNumber created: :0002365928
+2024-09-26 14:53:36 - root - INFO - Completed processing for BidTrigNN: 39140-EGI-902013730
+2024-09-26 14:53:36 - root - INFO - #################################################################################
+2024-09-26 14:53:36 - root - INFO - #################################################################################
+2024-09-26 14:53:36 - root - INFO - Processing BidTrigNN id: 39146-EGI-902013730
+2024-09-26 14:53:36 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:53:45 - root - INFO - Processing: Description=RFP_MELA_CAYMAN ISLANDS_LLA PR _39146, NN=902013730, SLC=EGI, PerNo=23673800, Hrs=6.0, Date=13.06.2024 to 05.07.2024
+2024-09-26 14:53:58 - root - INFO - Driver moved to approver page
+2024-09-26 14:54:03 - root - INFO - Pasted Salesforce ID:: Not Available
+2024-09-26 14:54:05 - root - INFO - FioriNumber created: :0002365929
+2024-09-26 14:54:10 - root - INFO - Completed processing for BidTrigNN: 39146-EGI-902013730
+2024-09-26 14:54:10 - root - INFO - #################################################################################
+2024-09-26 14:54:10 - root - INFO - #################################################################################
+2024-09-26 14:54:10 - root - INFO - Processing BidTrigNN id: 39146-TEM-902013730
+2024-09-26 14:54:10 - root - INFO - Number of Person in this BidTrigNN id: 3
+2024-09-26 14:54:19 - root - INFO - Processing: Description=RFP_MELA_CAYMAN ISLANDS_LLA PR _39146, NN=902013730, SLC=TEM, PerNo=23709218, Hrs=1.0, Date=13.06.2024 to 19.06.2024
+2024-09-26 14:54:30 - root - INFO - Processing: Description=RFP_MELA_CAYMAN ISLANDS_LLA PR _39146, NN=902013730, SLC=TEM, PerNo=23478714, Hrs=1.0, Date=13.06.2024 to 19.06.2024
+2024-09-26 14:54:42 - root - INFO - Processing: Description=RFP_MELA_CAYMAN ISLANDS_LLA PR _39146, NN=902013730, SLC=TEM, PerNo=80034236, Hrs=1.0, Date=13.06.2024 to 19.06.2024
+2024-09-26 14:54:55 - root - INFO - Driver moved to approver page
+2024-09-26 14:54:58 - root - INFO - Completed processing for BidTrigNN: 39146-TEM-902013730
+2024-09-26 14:54:58 - root - INFO - #################################################################################
+2024-09-26 14:54:58 - root - INFO - #################################################################################
+2024-09-26 14:54:58 - root - INFO - Processing BidTrigNN id: 39152-EGI-902013730
+2024-09-26 14:54:58 - root - INFO - Number of Person in this BidTrigNN id: 8
+2024-09-26 14:55:07 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=23720664, Hrs=8.5, Date=13.06.2024 to 28.06.2024
+2024-09-26 14:55:18 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=23763287, Hrs=17.0, Date=13.06.2024 to 05.07.2024
+2024-09-26 14:55:30 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=23743840, Hrs=5.0, Date=13.06.2024 to 28.06.2024
+2024-09-26 14:55:41 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=23587678, Hrs=5.0, Date=13.06.2024 to 28.06.2024
+2024-09-26 14:55:52 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=85002871, Hrs=20.0, Date=13.06.2024 to 28.06.2024
+2024-09-26 14:56:04 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=85005956, Hrs=17.0, Date=13.06.2024 to 28.06.2024
+2024-09-26 14:56:15 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=80034557, Hrs=8.5, Date=13.06.2024 to 28.06.2024
+2024-09-26 14:56:27 - root - INFO - Processing: Description=RFP_MELA_SWEDEN MU_SAFETY & SEC_39152, NN=902013730, SLC=EGI, PerNo=23762833, Hrs=2.0, Date=13.06.2024 to 28.06.2024
+2024-09-26 14:56:41 - root - INFO - Driver moved to approver page
+2024-09-26 14:56:46 - root - INFO - Completed processing for BidTrigNN: 39152-EGI-902013730
+2024-09-26 14:56:46 - root - INFO - #################################################################################
+2024-09-26 14:56:46 - root - INFO - #################################################################################
+2024-09-26 14:56:46 - root - INFO - Processing BidTrigNN id: 39167-EGI-902013730
+2024-09-26 14:56:46 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:56:55 - root - INFO - Processing: Description=RFP_MELA_PORTUGAL_DIGIPT_39167, NN=902013730, SLC=EGI, PerNo=23748106, Hrs=20.0, Date=17.06.2024 to 21.06.2024
+2024-09-26 14:57:08 - root - INFO - Driver moved to approver page
+2024-09-26 14:57:12 - root - INFO - Pasted Salesforce ID:: 35192403
+2024-09-26 14:57:14 - root - INFO - FioriNumber created: :0002365932
+2024-09-26 14:57:19 - root - INFO - Completed processing for BidTrigNN: 39167-EGI-902013730
+2024-09-26 14:57:19 - root - INFO - #################################################################################
+2024-09-26 14:57:19 - root - INFO - #################################################################################
+2024-09-26 14:57:19 - root - INFO - Processing BidTrigNN id: 39179-EGI-902013730
+2024-09-26 14:57:19 - root - INFO - Number of Person in this BidTrigNN id: 1
+2024-09-26 14:57:28 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers Communic_39179, NN=902013730, SLC=EGI, PerNo=23589443, Hrs=25.5, Date=20.06.2024 to 31.12.2024
+2024-09-26 14:57:42 - root - INFO - Driver moved to approver page
+2024-09-26 14:57:47 - root - INFO - Completed processing for BidTrigNN: 39179-EGI-902013730
+2024-09-26 14:57:47 - root - INFO - #################################################################################
+2024-09-26 14:57:47 - root - INFO - #################################################################################
+2024-09-26 14:57:47 - root - INFO - Processing BidTrigNN id: 39186-EGI-902013730
+2024-09-26 14:57:47 - root - INFO - Number of Person in this BidTrigNN id: 2
+2024-09-26 14:57:56 - root - INFO - Processing: Description=RFP_MELA_Bosnia and Herzegovi_H_39186, NN=902013730, SLC=EGI, PerNo=85014033, Hrs=12.5, Date=21.06.2024 to 15.07.2024
+2024-09-26 14:58:07 - root - INFO - Processing: Description=RFP_MELA_Bosnia and Herzegovi_H_39186, NN=902013730, SLC=EGI, PerNo=23769312, Hrs=8.5, Date=21.06.2024 to 15.07.2024
+2024-09-26 14:58:21 - root - INFO - Driver moved to approver page
+2024-09-26 14:58:26 - root - INFO - Completed processing for BidTrigNN: 39186-EGI-902013730
+2024-09-26 14:58:26 - root - INFO - #################################################################################
+2024-09-26 14:58:26 - root - INFO - #################################################################################
+2024-09-26 14:58:26 - root - INFO - Processing BidTrigNN id: 39243-EGI-902013730
+2024-09-26 14:58:26 - root - INFO - Number of Person in this BidTrigNN id: 7
+2024-09-26 14:58:34 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers Communic_39243, NN=902013730, SLC=EGI, PerNo=23470465, Hrs=64.0, Date=04.07.2024 to 26.07.2024
+2024-09-26 14:58:46 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers Communic_39243, NN=902013730, SLC=EGI, PerNo=85015076, Hrs=21.5, Date=04.07.2024 to 26.07.2024
+2024-09-26 14:58:57 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers Communic_39243, NN=902013730, SLC=EGI, PerNo=23683031, Hrs=25.5, Date=04.07.2024 to 26.07.2024
+2024-09-26 14:59:09 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers Communic_39243, NN=902013730, SLC=EGI, PerNo=23528391, Hrs=25.5, Date=04.07.2024 to 26.07.2024
+2024-09-26 14:59:20 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers Communic_39243, NN=902013730, SLC=EGI, PerNo=23490512, Hrs=2.0, Date=04.07.2024 to 26.07.2024
+2024-09-26 15:01:11 - root - INFO - Processing: Description=RFP_MANA_Canada_Rogers Communic_39243, NN=902013730, SLC=EGI, PerNo=80043214, Hrs=74.5, Date=04.07.2024 to 26.07.2024
